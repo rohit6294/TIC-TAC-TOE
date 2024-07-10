@@ -22,7 +22,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/unique-tic-tac-toe.git
+git clone https://github.com/rohit6294/TIC-TAC-TOE
 Navigate to the project directory:
 
 bash
